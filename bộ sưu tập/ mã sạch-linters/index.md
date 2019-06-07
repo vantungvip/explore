@@ -1,4 +1,5 @@
----
+--Method: auth.sendCode
+Result: {"_":"rpc_error","error_code":420,"error_message":"FLOOD_WAIT_57438"}
 items:
  - standard/standard
  - eslint/eslint
